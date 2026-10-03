@@ -7,7 +7,7 @@ require 'includes/header.php';
         <span class="eyebrow">Profil</span>
         <h1>Tentang proyek simulasi Telkom University</h1>
         <p class="lead">Halaman ini digunakan untuk mempraktikkan struktur halaman PHP yang memakai header dan footer bersama.</p>
-        <h2>Visi pembelajaran</h2>
+        <h2>Visi pembelajaran praktikum</h2>
         <p>Mahasiswa memahami hubungan antarmuka web, logika PHP, basis data, dan version control melalui satu proyek terpadu.</p>
         <h2>Tujuan proyek</h2>
         <p>Proyek menampilkan profil, program studi, berita, serta formulir kontak. Data program studi dan berita dibaca dari database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
