@@ -20,3 +20,5 @@ Simulasi conflict dilakukan pada file `includes/header.php`, tepatnya pada baris
 4. Menjalankan `git add includes/header.php`.
 5. Menjalankan `git commit -m "merge: selesaikan conflict navbar"`.
 6. Memeriksa halaman di browser untuk memastikan navbar tetap valid.
+
+Perubahan ini dibuat dari simulasi Laptop B.
