@@ -23,3 +23,5 @@ Simulasi conflict dilakukan pada file `includes/header.php`, tepatnya pada baris
 6. Memeriksa halaman di browser untuk memastikan navbar tetap valid.
 
 Perubahan ini dibuat dari simulasi Laptop B.
+
+   Catatan tahap kedua dari Laptop B.
