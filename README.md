@@ -1,6 +1,7 @@
 # Telkom University Company Profile - Praktikum
 
 Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git.
+   Disusun sebagai bahan praktikum Git dan GitHub.
 
 ## Dokumentasi Merge Conflict
 
