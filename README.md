@@ -25,7 +25,7 @@ Perubahan ini dibuat dari simulasi Laptop B.
 
    Catatan tahap kedua dari Laptop B.
 
-   ## Cara Menjalankan
+## Cara Menjalankan
 
 1. Letakkan folder project di `C:\xampp\htdocs\telkom-company-profile`.
 2. Jalankan Apache dan MySQL lewat XAMPP Control Panel.
