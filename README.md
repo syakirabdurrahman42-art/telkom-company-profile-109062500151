@@ -24,3 +24,10 @@ Simulasi conflict dilakukan pada file `includes/header.php`, tepatnya pada baris
 Perubahan ini dibuat dari simulasi Laptop B.
 
    Catatan tahap kedua dari Laptop B.
+
+   ## Cara Menjalankan
+
+1. Letakkan folder project di `C:\xampp\htdocs\telkom-company-profile`.
+2. Jalankan Apache dan MySQL lewat XAMPP Control Panel.
+3. Buka phpMyAdmin, lalu impor atau jalankan `database/telkom_profile.sql`.
+4. Buka `http://localhost/telkom-company-profile/` di browser.
